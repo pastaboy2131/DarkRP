@@ -20,7 +20,7 @@ DarkRP.createAmmoType("smg1", {
 })
 
 DarkRP.createCategory{
-    name = "Other",
+    name = "Misc",
     categorises = "ammo",
     startExpanded = true,
     color = Color(0, 107, 0, 255),
